@@ -798,6 +798,15 @@
       "ua": "okHttp/Mod-1.0.1",
       "url": "http://1.94.31.214/live/live9/dgtv.txt",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+    },
+    {
+      "name": "嘉禾直播",
+      "type": 0,
+      "url": "http://46.207.209.www.hxyy.jiaheysyy.top/jhzb.json",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
     }
   ],
   "parses": [
