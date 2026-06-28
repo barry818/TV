@@ -840,6 +840,13 @@
       "ua": "okHttp/Mod-1.0.1",
       "url": "http://1.94.31.214/live/live9/dgtv.txt",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+    },
+	{
+      "type": 0,
+      "name": "直播中国",
+      "playerType": 2,
+      "ua": "okHttp/Mod-1.0.1",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/barry818/myzy/refs/heads/main/%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD.txt"
     }
   ],
   "parses": [
