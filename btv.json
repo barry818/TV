@@ -1,5 +1,6 @@
 {
-  "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
+  "logo": "./jar/logo.gif",
+  "wallpaper" : "https://饭的动态壁纸.xxooo.cf/",
   "spider": "./jar/spider.jar",
   "sites": [
     {
