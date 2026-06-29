@@ -97,6 +97,12 @@
       "api": "./js/drpy2.min.js",
       "ext": "./py/B站.png"
     },
+	{
+      "key": "py_枫叶影院",
+      "name": "🦊枫叶｜采集",
+      "type": 3,
+      "api": "./py/枫叶影院.py"
+    },
     {
       "key": "裤佬免扫",
       "name": "🦊裤佬｜采集",
