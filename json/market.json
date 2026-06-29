@@ -43,13 +43,6 @@
         "name": "WebH影视",
         "list": [
             {
-                "name": "更新日志",
-                "url": "https://github.com/fish2018/webhtv/releases/latest",
-                "icon": "",
-                "copy": "",
-                "version": "WebH影视"
-            },
-            {
                 "name": "32位电视",
                 "url": "https://v6.gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/leanback-armeabi_v7a.apk",
                 "icon": "",
