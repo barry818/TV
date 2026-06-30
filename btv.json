@@ -82,7 +82,7 @@
     },
     {
       "key": "蓝兔",
-      "name": "💥蓝免｜4K",
+      "name": "🦊蓝免｜4K",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xyqxbpq.jar",
@@ -224,16 +224,7 @@
         "sign": "679543610991810f19698c187e5e106e"
       }
     },
-    {
-      "key": "emby",
-      "name": "💥EMBY｜视频",
-      "type": 3,
-      "api": "./js/Emby.js",
-      "style": {
-        "type": "rect"
-      },
-      "changeable": 1
-    },
+
     {
       "key": "八戒影视",
       "name": "💥八戒｜影视",
@@ -267,24 +258,7 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "哔哩影视",
-      "name": "💥哔哩｜视频",
-      "type": 3,
-      "api": "csp_BiliPGC",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": {
-        "json": "./json/blys.json",
-        "cookie": ""
-      }
-    },
+
     {
       "key": "金牌影视",
       "name": "💥金牌｜影视",
@@ -339,11 +313,22 @@
       "searchable": 1,
       "changeable": 1
     },
+
     {
       "key": "apple",
-      "name": "💥apple｜影视",
+      "name": "💥苹果｜影视",
       "type": 3,
       "api": "./js/apple.js"
+    },
+    {
+      "key": "emby",
+      "name": "💥EMBY｜视频",
+      "type": 3,
+      "api": "./js/Emby.js",
+      "style": {
+        "type": "rect"
+      },
+      "changeable": 1
     },
     {
       "key": "Huya",
@@ -405,12 +390,29 @@
     },
     {
       "key": "逼里逼里",
-      "name": "💥B站｜APP",
+      "name": "💓B站｜APP",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./py/B站.png"
     },
-
+    {
+      "key": "哔哩影视",
+      "name": "💓哔哩｜APP",
+      "type": 3,
+      "api": "csp_BiliPGC",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": {
+        "json": "./json/blys.json",
+        "cookie": ""
+      }
+    },
     {
       "key": "火狐",
       "name": "💓火狐｜APP",
