@@ -40,7 +40,7 @@ class Spider(Spider):
         self.session = requests.Session()
         self.session.verify = False
         self.session.mount('https://', TLSAdapter())
-        self.host = "https://www.tjtcdl.com"
+        self.host = "https://www.chuodong.com"
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',
             'Referer': f'{self.host}/',
@@ -56,6 +56,10 @@ class Spider(Spider):
 
     def homeContent(self, filter):
         classes = [
+            {'type_id': "/label/qq", 'type_name': "腾讯VIP"},
+            {'type_id': "/label/bli", 'type_name': "B站VIP"},
+            {'type_id': "/label/youku", 'type_name': "优酷VIP"},
+            {'type_id': "/label/duanju", 'type_name': "红果短剧"},
             {"type_id": "1", "type_name": "电影"},
             {"type_id": "2", "type_name": "电视剧"},
             {"type_id": "4", "type_name": "动漫"},
