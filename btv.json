@@ -157,17 +157,6 @@
       "playerType": 2
     },
     {
-      "key": "枫叶",
-      "name": "💥枫叶｜影视",
-      "type": 3,
-      "api": "./py/枫叶.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "亦凡",
       "name": "💥亦凡｜影视",
       "type": 3,
