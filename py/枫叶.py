@@ -40,7 +40,7 @@ class Spider(Spider):
         self.session = requests.Session()
         self.session.verify = False
         self.session.mount('https://', TLSAdapter())
-        self.host = "https://maihaolian.com"
+        self.host = "https://www.tjtcdl.com"
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',
             'Referer': f'{self.host}/',
