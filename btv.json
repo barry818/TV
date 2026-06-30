@@ -41,27 +41,7 @@
       "api": "./js/live2vod.js",
       "ext": "./json/feimaolive.json"
     },
-    {
-      "key": "88看球",
-      "name": "⚽看球｜体育",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "瓜子体育",
-      "name": "⚽瓜子｜体育",
-      "type": 3,
-      "api": "csp_GuaziTY",
-      "style": {
-        "type": "list"
-      }
-    },
+    
     {
       "key": "腾训视频",
       "name": "👑腾训｜官方",
@@ -90,21 +70,27 @@
       "api": "./js/drpy2.min.js",
       "ext": "./py/杧果.png"
     },
-    {
-      "key": "逼里逼里",
-      "name": "👑B站｜官方",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./py/B站.png"
-    },
+
     {
       "key": "py_枫叶影视",
-      "name": "🦊枫叶｜采集",
+      "name": "🦊枫叶｜4K",
       "type": 3,
       "api": "./py/枫叶影视.py",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
+    },
+    {
+      "key": "蓝兔",
+      "name": "💥蓝免｜4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://maihaolian.com/"
+      }
     },
     {
       "key": "裤佬免扫",
@@ -148,27 +134,24 @@
       "changeable": 1
     },
     {
-      "key": "蓝兔",
-      "name": "💥蓝免｜4K",
+      "key": "88看球",
+      "name": "⚽看球｜体育",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "分类url": "https://maihaolian.com/"
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
       }
     },
     {
-      "key": "皮克网",
-      "name": "💥皮克｜影视",
+      "key": "瓜子体育",
+      "name": "⚽瓜子｜体育",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "分类url": "https://www.pdy0.com/"
+      "api": "csp_GuaziTY",
+      "style": {
+        "type": "list"
       }
     },
     {
@@ -192,6 +175,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
+    },
+    {
+      "key": "皮克网",
+      "name": "💥皮克｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://www.pdy0.com/"
+      }
     },
     {
       "key": "亦凡",
@@ -408,6 +403,14 @@
         "ratio": 1.433
       }
     },
+    {
+      "key": "逼里逼里",
+      "name": "💥B站｜APP",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./py/B站.png"
+    },
+
     {
       "key": "火狐",
       "name": "💓火狐｜APP",
