@@ -128,24 +128,7 @@
       "type": 3,
       "api": "csp_SP360"
     },
-   {
-      "key": "哔哩影视",
-      "name": "💓哔哩｜APP",
-      "type": 3,
-      "api": "csp_BiliPGC",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": {
-        "json": "./json/blys.json",
-        "cookie": ""
-      }
-    },
+   
     {
       "key": "火狐",
       "name": "💓火狐｜APP",
@@ -221,7 +204,8 @@
       "name": "🌟聚合｜短剧",
       "type": 3,
       "api": "csp_JuheShortDrama",
-      "changeable": 0,
+      "searchable": 1,
+      "changeable": 1,
       "filterable": 1
     },
     {
@@ -229,8 +213,8 @@
       "name": "🌟盒马｜短剧",
       "type": 3,
       "api": "csp_HeMa",
-      "searchable": 0,
-      "changeable": 0,
+      "searchable": 1,
+      "changeable": 1,
       "filterable": 1
     },
     {
