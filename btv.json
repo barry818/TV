@@ -71,7 +71,7 @@
       "key": "茶杯狐",
       "name": "🦊茶狐｜影视",
             "type": 3,
-            "api": "./py/枫叶影视.py",
+            "api": "./py/枫叶影院.py",
               "searchable": 1,
           "changeable": 1
         },
@@ -143,23 +143,6 @@
     },
    
 
-    {
-      "key": "金影",
-      "name": "💥金影｜影视",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://qj4.catbb.xyz",
-        "dataKey": "eecbio48dsq13kkk",
-        "dataIv": "eecbio48dsq13kkk",
-        "search": "searchList4",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-   
 
     {
       "key": "juheduanju",
