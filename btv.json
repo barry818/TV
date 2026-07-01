@@ -65,7 +65,7 @@
 
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "副标题": "保护正版，人人有责",
                 "请求头": "User-Agent$MOBILE_UA",
