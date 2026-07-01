@@ -72,8 +72,9 @@
       "name": "🦊茶狐｜影视",
             "type": 3,
             "api": "./py/枫叶影院.py",
-              "searchable": 1,
-          "changeable": 1
+             "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
         },
     
         {
