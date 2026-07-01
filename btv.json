@@ -12,17 +12,6 @@
       "ext": "./json/douban.json"
     },
     {
-      "key": "CNTV",
-      "name": "📺央视｜电视",
-      "type": 3,
-      "api": "csp_CntvSpider",
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "changeable": 1
-    },
-    {
       "key": "央聚",
       "name": "📺央聚 | 电视",
       "type": 3,
@@ -34,6 +23,18 @@
       "playerType": 2
     },
     {
+      "key": "CNTV",
+      "name": "📺央视｜电视",
+      "type": 3,
+      "api": "csp_CntvSpider",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "changeable": 1
+    },
+
+    {
       "key": "直播转点播",
       "name": "📺点播｜电视",
       "type": 3,
@@ -43,7 +44,7 @@
     },
     {
       "key": "暴風",
-      "name": "🦊暴風｜采集",
+      "name": "🦊暴風｜影视",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -52,7 +53,7 @@
    
     {
       "key": "裤佬免扫",
-      "name": "🦊裤佬｜采集",
+      "name": "🦊裤佬｜影视",
       "type": 3,
       "jar": "./jar/klms.jar",
       "api": "csp_AppV6",
@@ -61,33 +62,38 @@
     },
    {
       "key": "枫叶影视",
-      "name": "🦊枫叶｜采集",
+      "name": "🦊枫叶｜影视",
             "type": 3,
             "api": "./js/枫叶.js"
         
         },
-    {
-      "key": "88看球",
-      "name": "⚽看球｜体育",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "瓜子体育",
-      "name": "⚽瓜子｜体育",
-      "type": 3,
-      "api": "csp_GuaziTY",
-      "style": {
-        "type": "list"
-      }
-    },
     
+        {
+      "key": "王子",
+      "name": "💥王子｜影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
+    },
+    {
+      "key": "茉莉",
+      "name": "💥茉莉｜影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },
     {
       "key": "金牌影视",
       "name": "💥金牌｜影视",
@@ -137,7 +143,7 @@
    
     {
       "key": "火狐",
-      "name": "💓火狐｜APP",
+      "name": "💥火狐｜影视",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -150,7 +156,7 @@
     },
     {
       "key": "金牌",
-      "name": "💓金牌｜APP",
+      "name": "💥金牌｜影视",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -166,7 +172,7 @@
     },
     {
       "key": "蓝鹰",
-      "name": "💓蓝鹰｜APP",
+      "name": "💥蓝鹰｜影视",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -179,32 +185,7 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "王子",
-      "name": "💓王子｜APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://app.95112475.xyz",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
-      }
-    },
-    {
-      "key": "茉莉",
-      "name": "💓茉莉｜APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      }
-    },
+
     {
       "key": "juheduanju",
       "name": "🌟聚合｜短剧",
@@ -235,168 +216,7 @@
       "playerType": 2
     },
 
-    {
-      "key": "Huya",
-      "name": "🎤虎牙｜直播",
-      "type": 3,
-      "api": "csp_Huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "Douyu",
-      "name": "🎤斗鱼｜直播",
-      "type": 3,
-      "api": "csp_Douyu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "KuaiShou",
-      "name": "🎤快手｜直播",
-      "type": 3,
-      "api": "csp_KuaiShou",
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "BiliLive",
-      "name": "🎤哔哩｜直播",
-      "type": 3,
-      "api": "csp_BiliLive",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-
- 
-    {
-      "key": "bilibili",
-      "name": "🌈哔哩｜合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./json/bilibili.json",
-        "cookie": ""
-      }
-    },
-    {
-      "key": "哔哩哔哩演唱会",
-      "name": "🌈哔哩｜音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "./json/blych.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩哔哩听书",
-      "name": "🌈哔哩｜听书",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "./json/blts.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩哔哩相声",
-      "name": "🌈哔哩｜相声",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "./json/blxs.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩哔哩小品",
-      "name": "🌈哔哩｜小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "./json/blxp.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩哔哩戏曲",
-      "name": "🌈哔哩｜戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "./json/blxq.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-
+   
 
     {
       "key": "方舟动漫",
@@ -431,133 +251,28 @@
       "changeable": 0,
       "filterable": 1
     },
-
-    {
-      "key": "xiqu",
-      "name": "🧓戏曲┃大全",
+{
+      "key": "88看球",
+      "name": "⚽看球｜体育",
       "type": 3,
-      "api": "csp_Xiqu",
-      "ext": ""
-    },
-    {
-      "key": "蜻蜓FM",
-      "name": "📡蜻蜓┃广播",
-      "type": 3,
-      "api": "csp_QingTing",
-      "ext": ""
-    },
-    {
-      "key": "凤凰FM",
-      "name": "📡凤凰┃广播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/凤凰FM.js"
-    },
-    {
-      "key": "喜马拉雅",
-      "name": "🎧喜马┃听书",
-      "type": 3,
-      "api": "./js/喜马拉雅.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
-    },
-    {
-      "key": "世界听书",
-      "name": "🎧世界┃听书",
-      "type": 3,
-      "api": "./js/世界听书.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
-    },
-    {
-      "key": "枫叶音乐",
-      "name": "🎹枫叶｜音乐",
-      "type": 3,
-      "api": "./py/枫叶音乐.py"
-    },
-    {
-      "key": "听海音乐",
-      "name": "🎹听海 | 音乐",
-      "type": 3,
-      "api": "./js/tinghai.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿｜教育",
-      "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Kanqiu",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "json": "./json/sejy.json",
-        "cookie": ""
-      },
+      "changeable": 0,
+      "gridview": 3,
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+        "type": "list"
       }
     },
     {
-      "key": "小学课堂",
-      "name": "📚小学｜课堂",
+      "key": "瓜子体育",
+      "name": "⚽瓜子｜体育",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "json": "./json/xxkt.json",
-        "cookie": ""
-      },
+      "api": "csp_GuaziTY",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+        "type": "list"
       }
     },
-    {
-      "key": "初中课堂",
-      "name": "📚初中｜课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "json": "./json/czkt.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "高中课堂",
-      "name": "📚高中｜课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "json": "./json/gzkt.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
+   
     {
       "key": "急救教学",
       "name": "🚑急救｜教学",
