@@ -67,14 +67,14 @@
             "api": "csp_XBPQ",
             "jar": "./jar/xyqxbpq.jar",
             "ext": {
-                "副标题": "保护正版，人人有责",
+                
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url": "https://www.cd-zj.com/label/qq.html",
                 "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
                 "播放数组": "anthology-list-play size\">&&</ul>",
                 "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3#短剧$5"
             }
         },
     {
