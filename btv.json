@@ -76,7 +76,18 @@
       "filterable": 0,
       "changeable": 0
         },
-    
+            {
+            "key": "茶杯狐影视",
+            "name": "🦊茶杯狐｜4K",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "quickSearch": 1,
+            "ext": {
+                "分类url": "https://www.china-itrade.com/zform-list/{cateId}-----------.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$5"
+            }
+        }, 
         {
       "key": "王子",
       "name": "💥王子｜影视",
