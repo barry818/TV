@@ -136,14 +136,40 @@
       }
     },
 
-    {
-      "key": "360影视",
-      "name": "💥六零｜影视",
+       {
+      "key": "毒蛇影视",
+      "name": "💥毒蛇｜影视",
       "type": 3,
-      "api": "csp_SP360"
+      "api": "./py/毒蛇.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
-   
+{
+      "key": "亦凡",
+      "name": "💥亦凡｜影视",
+      "type": 3,
+      "api": "./py/爱一帆.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
 
+{
+      "key": "八戒影视",
+      "name": "💥八戒｜影视",
+      "type": 3,
+      "api": "./py/八戒影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
 
     {
       "key": "juheduanju",
