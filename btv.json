@@ -22,17 +22,6 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "CNTV",
-      "name": "📺央视｜电视",
-      "type": 3,
-      "api": "csp_CntvSpider",
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "changeable": 1
-    },
 
     {
       "key": "直播转点播",
