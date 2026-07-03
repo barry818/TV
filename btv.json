@@ -170,7 +170,16 @@
       "filterable": 1,
       "playerType": 2
     },
-
+{
+      "key": "云看",
+      "name": "💥云看｜影视",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+            "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "ext": "./js/云看影视.js"
+    },
     {
       "key": "juheduanju",
       "name": "🌟聚合｜短剧",
