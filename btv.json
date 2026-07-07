@@ -190,6 +190,15 @@
       "quickSearch": 1,
       "ext": "./js/云看影视.js"
     },
+{
+      "key": "金桔影视",
+      "name": "💥金桔｜影视",
+      "type": 3,
+      "api": "./js/金桔.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "juheduanju",
       "name": "🌟聚合｜短剧",
