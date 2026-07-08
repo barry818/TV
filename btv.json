@@ -199,6 +199,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
+  {
+      "key": "猪猪影院",
+      "name": "💥猪猪｜影视",
+      "type": 3,
+      "api": "./js/猪猪影院.js",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "juheduanju",
       "name": "🌟聚合｜短剧",
