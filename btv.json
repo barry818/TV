@@ -320,27 +320,10 @@
         "ratio": 1.1
       },
       "ext": "./json/market.json"
-    },
-    {
-      "key": "push_agent",
-      "name": "📢推送｜中心",
-      "type": 3,
-      "api": "csp_Push",
-      "hide": 1,
-      "searchable": 0,
-      "changeable": 0,
-      "timeout": 60
     }
   ],
   "lives": [
     {
-      "type": 0,
-      "name": "migu接口",
-      "playerType": 2,
-      "ua": "okHttp/Mod-1.0.1",
-      "url": "https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-    },
     {
       "type": 0,
       "name": "咪咕接口",
@@ -349,6 +332,14 @@
       "url": "http://www.52top.com.cn:678/downloads/migu.txt",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
     },
+      "type": 0,
+      "name": "migu接口",
+      "playerType": 2,
+      "ua": "okHttp/Mod-1.0.1",
+      "url": "https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+    },
+
     {
       "type": 0,
       "name": "web1接口",
