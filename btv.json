@@ -186,15 +186,6 @@
       "ext": "./js/云看影视.js"
     },
     {
-      "key": "金桔影视",
-      "name": "💥金桔｜影视",
-      "type": 3,
-      "api": "./js/金桔.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "猪猪影院",
       "name": "💥猪猪｜影视",
       "type": 3,
@@ -202,6 +193,215 @@
       "searchable": 1,
       "changeable": 1
     },
+        {
+      "key": "4K电影网py",
+      "name": "🌶️电影｜影视",
+      "type": 3,
+      "api": "./py/4K电影网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "大马猴影视js",
+      "name": "🐒马猴｜影视",
+      "type": 3,
+      "api": "./js/大马猴影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "可可影视js",
+      "name": "🌰可可｜影视",
+      "type": 3,
+      "api": "./js/可可影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "独播库js",
+      "name": "💿播库｜影视",
+      "type": 3,
+      "api": "./js/独播库.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "永乐视频js",
+      "name": "🐬永乐｜影视",
+      "type": 3,
+      "api": "./js/永乐视频.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星辰影视js",
+      "name": "🌟星辰｜影视",
+      "type": 3,
+      "api": "./js/星辰.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "优夏影视js",
+      "name": "🌺优夏｜影视",
+      "type": 3,
+      "api": "./js/优夏.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "慕白影视js",
+      "name": "🍭慕白｜影视",
+      "type": 3,
+      "api": "./js/慕白.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "夏天影院js",
+      "name": "🍺夏天｜影视",
+      "type": 3,
+      "api": "./js/夏天影院.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "歪比巴卜py",
+      "name": "💦歪比｜影视",
+      "type": 3,
+      "api": "./py/歪比.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "豌豆py",
+      "name": "🫛豌豆｜影视",
+      "type": 3,
+      "api": "./py/豌豆.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "58影视py",
+      "name": "🔥58｜影视",
+      "type": 3,
+      "api": "./py/58影视.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "盛世蓝光py",
+      "name": "🌻盛世｜影视",
+      "type": 3,
+      "api": "./py/盛世蓝光.py",
+      "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "即看影视py",
+      "name": "👁即看｜影视",
+      "type": 3,
+      "api": "./py/即看.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "电影人生js",
+      "name": "🏂人生｜影视",
+      "type": 3,
+      "api": "./js/电影人生.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "4k影视js",
+      "name": "🧊高清｜影视",
+      "type": 3,
+      "api": "./js/4KVM.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "丧尸片py",
+      "name": "🎃丧尸｜影视",
+      "type": 3,
+      "api": "./py/丧尸片.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+        {
+      "key": "嘀哩嘀哩js",
+      "name": "🍥嘀哩｜影视",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/嘀哩嘀哩.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+    "key": "威视",
+    "name": "🥝威视｜影视",
+    "type": 3,
+    "api": "./py/威视.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+    {
+      "key": "剧迷",
+      "name": "🐸剧迷｜影视",
+      "type": 3,
+      "api": "./py/剧迷影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gimyplus.com",
+      "timeout": 60
+    },
+    {
+      "key": "闪剧",
+      "name": "⚡️闪剧｜影视",
+      "type": 3,
+      "api": "./py/闪剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gimyplus.com",
+      "timeout": 60
+    },
+{
+      "key": "西瓜",
+      "name": "🍉西瓜｜影视",
+      "type": 3,
+      "api": "./py/西瓜.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gimyplus.com",
+      "timeout": 60
+    },
+    {
+      "key": "咖啡影视js",
+      "name": "☕️咖啡｜影视",
+      "type": 3,
+      "api": "./js/咖啡影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    
     {
       "key": "juheduanju",
       "name": "🌟聚合｜短剧",
