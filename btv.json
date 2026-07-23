@@ -58,7 +58,7 @@
     },
     {
       "key": "海棠",
-      "name": "🦊海棠｜4k",
+      "name": "🦊海棠｜4K",
       "type": 3,
       "api": "./py/海棠.py",
       "searchable": 1,
@@ -69,7 +69,7 @@
     },
     {
       "key": "山楂影视",
-      "name": "🦊山楂｜4k",
+      "name": "🦊山楂｜4K",
       "type": 3,
       "api": "./py/山楂影视.py",
       "searchable": 1,
