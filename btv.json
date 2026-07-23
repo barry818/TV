@@ -78,6 +78,26 @@
       "order_num": 0,
       "changeable": 0
     },
+{"key":"爱影",
+"name":"👠爱影｜4K",
+"type":3,
+"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+"ext":{
+"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
+"key":"nzEqOgYk3QzHuEP8",
+"init":"V122",
+"api":2,
+"ua":"okhttp/3.10.0"
+},
+"categories":[
+"电视剧",
+"电影",
+"短剧",
+"体育",
+"少儿",
+"纪录片"
+]
+},
     {
       "key": "王子",
       "name": "💥王子｜影视",
