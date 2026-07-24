@@ -93,13 +93,27 @@
     },
     {
       "key": "山楂影视py",
-      "name": "🍒山楂｜影视",
+      "name": "🍒山楂｜4K",
       "type": 3,
       "api": "./py/山楂影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "bubu",
+      "name": "🐥布布｜4K",
+      "type": 3,
+      "api": "./py/布布.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "site": "https://bubutv.top,https://bbys.app,https://www.bbys.app"
+      }
+    },
+
     {
       "key": "王子",
       "name": "🤴王子｜影视",
@@ -177,19 +191,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "bubu",
-      "name": "🐥布布｜影视",
-      "type": 3,
-      "api": "./py/布布.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "site": "https://bubutv.top,https://bbys.app,https://www.bbys.app"
-      }
     },
     {
       "key": "云看",
