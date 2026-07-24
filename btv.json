@@ -414,8 +414,158 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-    
+{
+      "key": "悟空py",
+      "name": "🐵悟空｜影视",
+      "type": 3,
+      "api": "./py/悟空影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "奈飞4K",
+      "name": "🪼奈飞丨4K",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
+    },
+    {
+      "key": "顶级影院py",
+      "name": "💍顶级｜影视",
+      "type": 3,
+      "api": "./py/顶级影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "酷猫js",
+      "name": "🐱酷猫｜影视",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "ext": "./js/酷猫.js"
+    },
+    {
+      "key": "爱奇艺js",
+      "name": "🥝奇异｜影视",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "ext": "./js/iqiyi.js"
+    },
+    {
+      "key": "人人影视js",
+      "name": "🦸人人｜影视",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "ext": "./js/人人视频.js"
+    },
+    {
+      "key": "金桔影视js",
+      "name": "🍊金桔｜影视",
+      "type": 3,
+      "api": "./js/金桔影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "一个影视js",
+      "name": "🍟一个｜影视",
+      "type": 3,
+      "api": "./js/一个影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "视界秒播js",
+      "name": "🐌视界｜影视",
+      "type": 3,
+      "api": "./js/视界秒播.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "火云影视js",
+      "name": "🔥火云｜4K",
+      "type": 3,
+      "api": "./js/火云.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "皮皮虾py",
+      "name": "🦐皮皮｜影视",
+      "type": 3,
+      "api": "./py/皮皮虾.py",
+      "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "农民影视py",
+      "name": "🌾农民｜影视",
+      "type": 3,
+      "api": "./py/农民影视.py"
+    },
+    {
+      "key": "SOTVLA",
+      "name": "🤖SOTV｜影视",
+      "type": 3,
+      "api": "./py/SOTVLA.py"
+    },
+    {
+      "key": "段友影视py",
+      "name": "👣段友｜影视",
+      "type": 3,
+      "api": "./py/段友影视.py"
+    },
+    {
+      "key": "七猫影视py",
+      "name": "🦜七猫｜影视",
+      "type": 3,
+      "api": "./py/七猫影视.py"
+    },
+    {
+      "key": "莫小影py",
+      "name": "🦌莫小｜影视",
+      "type": 3,
+      "api": "./py/莫小影.py"
+    },
+    {
+      "key": "蛋挞影视py",
+      "name": "🍳蛋挞｜影视",
+      "type": 3,
+      "api": "./py/蛋挞TV.py"
+    },
+    {
+      "key": "聚合短剧ps",
+      "name": "🪹聚合｜短剧",
+      "type": 3,
+      "api": "./js/聚合短剧.js",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "juheduanju",
       "name": "🌟聚合｜短剧",
@@ -439,6 +589,17 @@
       "name": "🌟七星丨短剧",
       "type": 3,
       "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "星星短剧py",
+      "name": "⭐星星｜短剧",
+      "type": 3,
+      "api": "./py/星星短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -477,6 +638,23 @@
       "searchable": 1,
       "changeable": 0,
       "filterable": 1
+    },
+    {
+      "key": "兔小贝js",
+      "name": "🐰小贝｜育儿",
+      "type": 3,
+      "api": "./js/兔小贝.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "童趣育儿js",
+      "name": "🫅童趣｜育儿",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/童趣.js",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "88看球",
