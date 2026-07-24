@@ -92,6 +92,15 @@
       ]
     },
     {
+      "key": "山楂影视py",
+      "name": "🍒山楂｜影视",
+      "type": 3,
+      "api": "./py/山楂影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "王子",
       "name": "🤴王子｜影视",
       "type": 3,
