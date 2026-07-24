@@ -192,16 +192,7 @@
       "quickSearch": 1,
       "ext": "./js/云看影视.js"
     },
-    {
-      "key": "4K电影网py",
-      "name": "🌶️电影｜影视",
-      "type": 3,
-      "api": "./py/4K电影网.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+        {
       "key": "大马猴影视js",
       "name": "🐒马猴｜影视",
       "type": 3,
@@ -290,28 +281,11 @@
       "changeable": 1
     },
     {
-      "key": "58影视py",
-      "name": "🔥58｜影视",
-      "type": 3,
-      "api": "./py/58影视.py",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "盛世蓝光py",
       "name": "❄️盛世｜影视",
       "type": 3,
       "api": "./py/盛世蓝光.py",
       "ext": "http://43.248.117.123:4680"
-    },
-    {
-      "key": "电影人生js",
-      "name": "🏂人生｜影视",
-      "type": 3,
-      "api": "./js/电影人生.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "4k影视js",
