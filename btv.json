@@ -57,6 +57,15 @@
       "changeable": 0
     },
     {
+      "key": "腾讯js",
+      "name": "🐧腾讯｜4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/腾讯.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "爱影",
       "name": "👠爱影｜4K",
       "type": 3,
@@ -102,7 +111,7 @@
     },
     {
       "key": "bubu",
-      "name": "🐥布布｜4K",
+      "name": "🐥布布｜影视",
       "type": 3,
       "api": "./py/布布.py",
       "searchable": 1,
