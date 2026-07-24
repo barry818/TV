@@ -32,7 +32,7 @@
     },
     {
       "key": "暴風",
-      "name": "🦊暴風｜影视",
+      "name": "🏀暴風｜影视",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "裤佬免扫",
-      "name": "🦊裤佬｜影视",
+      "name": "👖裤佬｜影视",
       "type": 3,
       "jar": "./jar/klms.jar",
       "api": "csp_AppV6",
@@ -49,7 +49,7 @@
     },
     {
       "key": "枫叶",
-      "name": "🦊枫叶｜影视",
+      "name": "🍁枫叶｜影视",
       "type": 3,
       "api": "./py/枫叶.py",
       "searchable": 1,
@@ -93,7 +93,7 @@
     },
     {
       "key": "王子",
-      "name": "💥王子｜影视",
+      "name": "🤴王子｜影视",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -106,7 +106,7 @@
     },
     {
       "key": "金牌影视",
-      "name": "💥金牌｜影视",
+      "name": "🥇金牌｜影视",
       "type": 3,
       "api": "csp_Glod",
       "searchable": 1,
@@ -115,7 +115,7 @@
     },
     {
       "key": "guazi",
-      "name": "💥瓜子｜影视",
+      "name": "🎂瓜子｜影视",
       "type": 3,
       "api": "csp_Guazi",
       "searchable": 1,
@@ -124,7 +124,7 @@
     },
     {
       "key": "热播影视",
-      "name": "💥热播｜影视",
+      "name": "🍔热播｜影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -138,7 +138,7 @@
     },
     {
       "key": "毒蛇影视",
-      "name": "💥毒蛇｜影视",
+      "name": "🐍毒蛇｜影视",
       "type": 3,
       "api": "./py/毒蛇.py",
       "searchable": 1,
@@ -149,7 +149,7 @@
     },
     {
       "key": "亦凡",
-      "name": "💥亦凡｜影视",
+      "name": "⛵️亦凡｜影视",
       "type": 3,
       "api": "./py/爱一帆.py",
       "searchable": 1,
@@ -160,7 +160,7 @@
     },
     {
       "key": "八戒影视",
-      "name": "💥八戒｜影视",
+      "name": "🐷八戒｜影视",
       "type": 3,
       "api": "./py/八戒影视.py",
       "searchable": 1,
@@ -171,7 +171,7 @@
     },
     {
       "key": "bubu",
-      "name": "💥布布｜影视",
+      "name": "🐥布布｜影视",
       "type": 3,
       "api": "./py/布布.py",
       "searchable": 1,
@@ -184,21 +184,13 @@
     },
     {
       "key": "云看",
-      "name": "💥云看｜影视",
+      "name": "👀云看｜影视",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "ext": "./js/云看影视.js"
-    },
-    {
-      "key": "猪猪影院",
-      "name": "💥猪猪｜影视",
-      "type": 3,
-      "api": "./js/猪猪影院.js",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "4K电影网py",
@@ -220,7 +212,7 @@
     },
     {
       "key": "可可影视js",
-      "name": "🌰可可｜影视",
+      "name": "🍭可可｜影视",
       "type": 3,
       "api": "./js/可可影视.js",
       "searchable": 1,
@@ -238,7 +230,7 @@
     },
     {
       "key": "永乐视频js",
-      "name": "🐬永乐｜影视",
+      "name": "🍻永乐｜影视",
       "type": 3,
       "api": "./js/永乐视频.js",
       "searchable": 1,
@@ -265,7 +257,7 @@
     },
     {
       "key": "慕白影视js",
-      "name": "🍭慕白｜影视",
+      "name": "🌽慕白｜影视",
       "type": 3,
       "api": "./js/慕白.js",
       "searchable": 1,
@@ -307,7 +299,7 @@
     },
     {
       "key": "盛世蓝光py",
-      "name": "🌻盛世｜影视",
+      "name": "❄️盛世｜影视",
       "type": 3,
       "api": "./py/盛世蓝光.py",
       "ext": "http://43.248.117.123:4680"
@@ -485,7 +477,7 @@
     },
     {
       "key": "皮皮虾py",
-      "name": "🦐皮皮｜影视",
+      "name": "🦐皮虾｜影视",
       "type": 3,
       "api": "./py/皮皮虾.py",
       "ext": "http://43.248.117.123:4680"
@@ -504,7 +496,7 @@
     },
     {
       "key": "段友影视py",
-      "name": "👣段友｜影视",
+      "name": "🐠段友｜影视",
       "type": 3,
       "api": "./py/段友影视.py"
     },
@@ -544,17 +536,8 @@
       "playerType": 2
     },
     {
-      "key": "juheduanju",
-      "name": "🌟聚合｜短剧",
-      "type": 3,
-      "api": "csp_JuheShortDrama",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
-    {
       "key": "HeMa",
-      "name": "🌟盒马｜短剧",
+      "name": "🦛盒马｜短剧",
       "type": 3,
       "api": "csp_HeMa",
       "searchable": 1,
@@ -585,7 +568,7 @@
     },
     {
       "key": "方舟动漫",
-      "name": "🌸方舟丨动漫",
+      "name": "🪸方舟丨动漫",
       "type": 3,
       "searchable": 1,
       "api": "csp_AppGet",
@@ -597,7 +580,7 @@
     },
     {
       "key": "咕咕动漫",
-      "name": "🌸咕咕｜动漫",
+      "name": "🪷咕咕｜动漫",
       "type": 3,
       "searchable": 1,
       "api": "csp_AppGet",
@@ -609,7 +592,7 @@
     },
     {
       "key": "DmBus",
-      "name": "🌸巴士｜动漫",
+      "name": "🚌巴士｜动漫",
       "type": 3,
       "api": "csp_DmBus",
       "searchable": 1,
