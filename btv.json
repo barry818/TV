@@ -57,28 +57,6 @@
       "changeable": 0
     },
     {
-      "key": "海棠",
-      "name": "🦊海棠｜4K",
-      "type": 3,
-      "api": "./py/海棠.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
-    },
-    {
-      "key": "山楂影视",
-      "name": "🦊山楂｜4K",
-      "type": 3,
-      "api": "./py/山楂影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
-    },
-    {
       "key": "爱影",
       "name": "👠爱影｜4K",
       "type": 3,
