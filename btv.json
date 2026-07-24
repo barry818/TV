@@ -78,26 +78,41 @@
       "order_num": 0,
       "changeable": 0
     },
-{"key":"爱影",
-"name":"👠爱影｜4K",
-"type":3,
-"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-"ext":{
-"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-"key":"nzEqOgYk3QzHuEP8",
-"init":"V122",
-"api":2,
-"ua":"okhttp/3.10.0"
-},
-"categories":[
-"电视剧",
-"电影",
-"短剧",
-"体育",
-"少儿",
-"纪录片"
-]
-},
+    {
+      "key": "爱影",
+      "name": "👠爱影｜4K",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
+        "key": "nzEqOgYk3QzHuEP8",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "电视剧",
+        "电影",
+        "短剧",
+        "体育",
+        "少儿",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "奈飞4K",
+      "name": "🪼奈飞丨4K",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
+    },
     {
       "key": "王子",
       "name": "💥王子｜影视",
@@ -207,7 +222,7 @@
       "searchable": 1,
       "changeable": 1
     },
-        {
+    {
       "key": "4K电影网py",
       "name": "🌶️电影｜影视",
       "type": 3,
@@ -345,7 +360,7 @@
       "searchable": 1,
       "changeable": 1
     },
-        {
+    {
       "key": "嘀哩嘀哩js",
       "name": "🍥嘀哩｜影视",
       "type": 3,
@@ -356,14 +371,14 @@
       "changeable": 1
     },
     {
-    "key": "威视",
-    "name": "🥝威视｜影视",
-    "type": 3,
-    "api": "./py/威视.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
+      "key": "威视",
+      "name": "🥝威视｜影视",
+      "type": 3,
+      "api": "./py/威视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "剧迷",
       "name": "🐸剧迷｜影视",
@@ -386,7 +401,7 @@
       "ext": "https://gimyplus.com",
       "timeout": 60
     },
-{
+    {
       "key": "西瓜",
       "name": "🍉西瓜｜影视",
       "type": 3,
@@ -406,7 +421,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
+    {
       "key": "悟空py",
       "name": "🐵悟空｜影视",
       "type": 3,
@@ -414,20 +429,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "奈飞4K",
-      "name": "🪼奈飞丨4K",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "4K电影",
-        "Netflix电影",
-        "Netflix自制剧"
-      ]
     },
     {
       "key": "顶级影院py",
