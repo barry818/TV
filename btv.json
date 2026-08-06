@@ -283,14 +283,6 @@
       "filterable": 1
     },
     {
-      "key": "歪比巴卜py",
-      "name": "💦歪比｜影视",
-      "type": 3,
-      "api": "./py/歪比.py",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "豌豆py",
       "name": "🫛豌豆｜影视",
       "type": 3,
