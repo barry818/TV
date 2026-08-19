@@ -102,6 +102,15 @@
       "filterable": 1
     },
     {
+      "key": "采集py",
+      "name": "🧣聚合｜影视",
+      "type": 3,
+      "api": "./py/采集聚合.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "王子",
       "name": "🤴王子｜影视",
       "type": 3,
