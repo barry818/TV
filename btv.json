@@ -398,6 +398,234 @@
       "type": 3,
       "api": "./py/七猫影视.py"
     },
+
+{
+      "key": "初见影视py",
+      "name": "🦩初见｜影视",
+      "type": 3,
+      "api": "./py/初见影视.py"
+    },    
+    {
+      "key": "好剧影视py",
+      "name": "🪻好剧｜影视",
+      "type": 3,
+      "api": "./py/好剧影视.py"
+    },
+    {
+      "key": "简云影视py",
+      "name": "🫧简云｜影视",
+      "type": 3,
+      "api": "./py/简云影视.py"
+    },
+    {
+      "key": "皮克网py",
+      "name": "🐡皮克｜影视",
+      "type": 3,
+      "api": "./py/皮克网.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "牛牛py",
+      "name": "🐂牛牛｜影视",
+      "type": 3,
+      "api": "./py/牛牛.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "拾光影视py",
+      "name": "🦚拾光｜影视",
+      "type": 3,
+      "api": "./py/拾光影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "咕噜py",
+      "name": "🔮咕噜｜影视",
+      "type": 3,
+      "api": "./py/咕噜4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "多多影视py",
+      "name": "🥨多多｜影视",
+      "type": 3,
+      "api": "./py/多多影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "壹秀py",
+      "name": "🪆壹秀｜影视",
+      "type": 3,
+      "api": "./py/壹秀影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "大米星球py",
+      "name": "🍙大米｜影视",
+      "type": 3,
+      "api": "./py/大米星球.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "蜜蜂影视py",
+      "name": "🐝蜜蜂｜影视",
+      "type": 3,
+      "api": "./py/小蜜蜂.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "先生影视py",
+      "name": "👨先生｜影视",
+      "type": 3,
+      "api": "./py/电影先生.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "兄弟影视py",
+      "name": "👬兄弟｜影视",
+      "type": 3,
+      "api": "./py/兄弟影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "网飞py",
+      "name": "🕸网飞｜影视",
+      "type": 3,
+      "api": "./py/网飞.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "青麦py",
+      "name": "🌿青麦｜影视",
+      "type": 3,
+      "api": "./py/青麦视频.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "私房py",
+      "name": "⛳️私房｜影视",
+      "type": 3,
+      "api": "./py/私房研究所.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+        {
+      "key": "星海py",
+      "name": "🌊星海｜影视",
+      "type": 3,
+      "api": "./py/星海4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "华谊py",
+      "name": "🥢华谊｜影视",
+      "type": 3,
+      "api": "./py/华谊影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "柚子py",
+      "name": "🥑柚子｜影视",
+      "type": 3,
+      "api": "./py/柚子影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "蓝光py",
+      "name": "🐦蓝光｜影视",
+      "type": 3,
+      "api": "./py/蓝光影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "网飞猫py",
+      "name": "🐹飞猫｜影视",
+      "type": 3,
+      "api": "./py/网飞猫.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "豆花py",
+      "name": "🧋豆花｜影视",
+      "type": 3,
+      "api": "./py/豆花电影.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "无极py",
+      "name": "🦅无极｜影视",
+      "type": 3,
+      "api": "./py/无极影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "蝴蝶py",
+      "name": "🦋蝴蝶｜影视",
+      "type": 3,
+      "api": "./py/蝴蝶影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "聚合影视py",
+      "name": "🪸集合｜影视",
+      "type": 3,
+      "api": "./py/聚合影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "哈趣py",
+      "name": "🐠哈趣｜影视",
+      "type": 3,
+      "api": "./py/哈趣影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+
+
     {
       "key": "聚合短剧ps",
       "name": "🪹聚合｜短剧",
