@@ -539,15 +539,6 @@
       "quickSearch": 1
     },
     {
-      "key": "私房py",
-      "name": "⛳️私房｜影视",
-      "type": 3,
-      "api": "./py/私房研究所.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "华谊py",
       "name": "🥢华谊｜影视",
       "type": 3,
