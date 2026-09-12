@@ -726,7 +726,7 @@
     },
     {
       "key": "急救教学",
-      "name": "🚑急救｜教学",
+      "name": "🚑急救｜其它",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -740,7 +740,7 @@
     },
     {
       "key": "商店",
-      "name": "🏬商店｜更新",
+      "name": "🏬商店｜其它",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
