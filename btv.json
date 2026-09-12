@@ -308,17 +308,6 @@
       "timeout": 60
     },
     {
-      "key": "西瓜",
-      "name": "🍉西瓜｜影视",
-      "type": 3,
-      "api": "./py/西瓜.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gimyplus.com",
-      "timeout": 60
-    },
-    {
       "key": "咖啡影视js",
       "name": "☕️咖啡｜影视",
       "type": 3,
@@ -385,24 +374,6 @@
       "filterable": 1
     },
     {
-      "key": "视界秒播js",
-      "name": "🐌视界｜影视",
-      "type": 3,
-      "api": "./js/视界秒播.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "火云影视js",
-      "name": "🔥火云｜影视",
-      "type": 3,
-      "api": "./js/火云.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "皮皮虾py",
       "name": "🦐皮虾｜影视",
       "type": 3,
@@ -422,28 +393,10 @@
       "api": "./py/SOTVLA.py"
     },
     {
-      "key": "段友影视py",
-      "name": "🐠段友｜影视",
-      "type": 3,
-      "api": "./py/段友影视.py"
-    },
-    {
       "key": "七猫影视py",
       "name": "🦜七猫｜影视",
       "type": 3,
       "api": "./py/七猫影视.py"
-    },
-    {
-      "key": "蛋挞影视py",
-      "name": "🍳蛋挞｜影视",
-      "type": 3,
-      "api": "./py/蛋挞TV.py"
-    },
-    {
-      "key": "云朵影视py",
-      "name": "🪽云朵｜影视",
-      "type": 3,
-      "api": "./py/云朵影视.py"
     },
     {
       "key": "聚合短剧ps",
@@ -497,18 +450,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "方舟动漫",
-      "name": "🪸方舟丨动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.cyfz.top",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d"
-      }
     },
     {
       "key": "咕咕动漫",
