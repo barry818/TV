@@ -74,9 +74,37 @@
         "site": "https://bubutv.top,https://bbys.app,https://www.bbys.app"
       }
     },
+        {
+      "key": "星海py",
+      "name": "🌊星海｜4K",
+      "type": 3,
+      "api": "./py/星海4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "咕噜py",
+      "name": "🔮咕噜｜4K",
+      "type": 3,
+      "api": "./py/咕噜4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "聚合影视py",
+      "name": "🪸聚合｜影视",
+      "type": 3,
+      "api": "./py/聚合影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+
     {
       "key": "采集py",
-      "name": "🧣聚合｜影视",
+      "name": "🏵️采集｜影视",
       "type": 3,
       "api": "./py/采集聚合.py",
       "searchable": 1,
@@ -406,12 +434,6 @@
       "api": "./py/初见影视.py"
     },    
     {
-      "key": "好剧影视py",
-      "name": "🪻好剧｜影视",
-      "type": 3,
-      "api": "./py/好剧影视.py"
-    },
-    {
       "key": "简云影视py",
       "name": "🫧简云｜影视",
       "type": 3,
@@ -440,15 +462,6 @@
       "name": "🦚拾光｜影视",
       "type": 3,
       "api": "./py/拾光影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "咕噜py",
-      "name": "🔮咕噜｜影视",
-      "type": 3,
-      "api": "./py/咕噜4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -534,15 +547,6 @@
       "changeable": 1,
       "quickSearch": 1
     },
-        {
-      "key": "星海py",
-      "name": "🌊星海｜影视",
-      "type": 3,
-      "api": "./py/星海4K.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1
-    },
     {
       "key": "华谊py",
       "name": "🥢华谊｜影视",
@@ -602,15 +606,6 @@
       "name": "🦋蝴蝶｜影视",
       "type": 3,
       "api": "./py/蝴蝶影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "聚合影视py",
-      "name": "🪸集合｜影视",
-      "type": 3,
-      "api": "./py/聚合影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
