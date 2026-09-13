@@ -61,19 +61,6 @@
         "Netflix自制剧"
       ]
     },
-    {
-      "key": "bubu",
-      "name": "🐥布布｜4K",
-      "type": 3,
-      "api": "./py/布布.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "site": "https://bubutv.top,https://bbys.app,https://www.bbys.app"
-      }
-    },
         {
       "key": "星海py",
       "name": "🌊星海｜4K",
