@@ -112,15 +112,6 @@
       }
     },
     {
-      "key": "guazi",
-      "name": "🎂瓜子｜影视",
-      "type": 3,
-      "api": "csp_Guazi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {}
-    },
-    {
       "key": "热播影视",
       "name": "🍔热播｜影视",
       "type": 3,
