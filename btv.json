@@ -181,7 +181,7 @@
       "key": "可可影视js",
       "name": "🍭可可｜影视",
       "type": 3,
-      "api": "./js/可可影视.js",
+      "api": "./py/可可影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -190,7 +190,7 @@
       "key": "独播库js",
       "name": "💿播库｜影视",
       "type": 3,
-      "api": "./js/独播库.js",
+      "api": "./py/独播库.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -252,9 +252,8 @@
       "key": "盛世蓝光py",
       "name": "❄️盛世｜影视",
       "type": 3,
-      "api": "./py/盛世蓝光.py",
-      "ext": "http://43.248.117.123:4680"
-    },
+      "api": "./py/盛世蓝光.py"
+     },
     {
       "key": "4k影视js",
       "name": "🧊高清｜影视",
